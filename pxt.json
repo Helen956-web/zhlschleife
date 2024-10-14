@@ -1,5 +1,5 @@
 {
-    "name": "Zählschleife",
+    "name": "Zählschleife rückwärts",
     "description": "",
     "dependencies": {
         "core": "*",
